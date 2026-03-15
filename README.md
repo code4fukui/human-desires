@@ -1,5 +1,7 @@
 # human-desires
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 An application for reflecting on human desires.
 
 ## Demo
