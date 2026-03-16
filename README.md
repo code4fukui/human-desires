@@ -16,4 +16,4 @@ An application for reflecting on human desires.
 The application uses a [CSV file of human desires](human-desires.csv) from [Complete List of Human Desires and Pleasures](https://note.com/simpeiidea/n/nd8a8b0d5b5b8).
 
 ## License
-This project is licensed under the terms of the MIT license.
+MIT License — see [LICENSE](LICENSE).
